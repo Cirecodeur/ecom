@@ -1,0 +1,17 @@
+.caption{
+  height: 156px;
+}
+/****************************small height for shop********************************/
+
+.small_height{
+	font-size: small;
+	font-size: 0.7em;
+}
+.small_height h3{
+	overflow: auto-scroll;
+	font-size: 1em;
+}
+.small_height p a{
+	overflow: auto-scroll;
+	font-size: xx-small;
+}
