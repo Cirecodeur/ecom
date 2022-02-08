@@ -302,8 +302,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `email`, `password`, `droit`, `user_photo`) VALUES
-(7, 'eric', 'adoricos3@gmail.com', '$2y$10$XMxYNmEJi05INHVQdA9MUOjhmqzDYzeOULYrg6m0SqDp8WqPRKdzC', '2', ''),
-(21, 'arsene', 'adoricos3@gmail.com', '$2y$10$2iI3ZaK0mDsT.1pkFritdeLW5w1ChZ92EWaL7HLPf7qHzRFnZ8ruO', '1', ''),
+(7, 'eric', 'cirecodeur@gmail.com', '$2y$10$XMxYNmEJi05INHVQdA9MUOjhmqzDYzeOULYrg6m0SqDp8WqPRKdzC', '2', ''),
+(21, 'arsene', 'testons@gmail.com', '$2y$10$2iI3ZaK0mDsT.1pkFritdeLW5w1ChZ92EWaL7HLPf7qHzRFnZ8ruO', '1', ''),
 (23, 'eric3', 'example@gmail.com', '$2y$10$ZHEJw2OJxgQ5fRznNdtr8eqFFrQ1toxDgPi5CpyCeWGPw/Bu0.hcq', '', '');
 COMMIT;
 
